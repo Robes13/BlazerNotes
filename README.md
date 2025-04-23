@@ -1,1 +1,4 @@
-# BlazerNotes
+# BlazorNotes
+
+## SSR
+- 
