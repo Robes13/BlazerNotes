@@ -1,4 +1,1 @@
-# BlazorNotes
 
-#### SSR
-- 
